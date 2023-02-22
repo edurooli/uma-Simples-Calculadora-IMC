@@ -1,0 +1,15 @@
+body{
+           font-family: Arial, Helvetica, sans-serif;
+           background: linear-gradient(to right, purple, blue);
+           text-align: center;
+           color: #fff
+       }
+       .container{
+           position: absolute;
+           top: 50%; 
+           left: 50%;
+           background-color: transform: translate(0,0,0,0.5);
+           padding:1em;
+           border-radius:10px;
+       }
+       button
